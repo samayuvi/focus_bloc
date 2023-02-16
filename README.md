@@ -10,6 +10,7 @@ Flutter Project to track time spent on tasks and projects.
 - Cloud Synchronised 
 - Multi-language support
 - Cross platform
+- BLoC + Provider
 - TDD
 - Google Analytics
 - Clean Architecture
